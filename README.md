@@ -1,7 +1,7 @@
-👋 Hi, I'm Snehal Kansal</br>
+## 👋 Hi, I'm Snehal Kansal</br>
 
 🎓 B.Tech Computer Science - Bioinformatics</br>
-💻 Interests: Machine Learning, AI in Healthcare, Cloud Computing, Web Development</br>
+💻 Interests: Machine Learning, Data Analysis, Cloud Computing, Web Development</br>
 
 
 ## 🌐 Socials:
